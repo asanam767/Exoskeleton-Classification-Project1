@@ -15,7 +15,6 @@ The system uses data from wearable Inertial Measurement Units (IMUs) to classify
 
 ## Repository Structure
 - `IMU4 (2).ipynb`: The main Google Colab notebook containing data preprocessing, model training, evaluation, and the Gradio demo setup.
-- `Generalized_Exoskeleton_Paper.pdf`: The full IEEE-formatted research paper detailing the project methodology and results.
 - `README.md`: This project overview.
 
 ## Methodology
