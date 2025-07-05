@@ -1,0 +1,5 @@
+gradio==5.27.0
+pandas
+numpy
+tensorflow==2.15.0
+scikit-learn

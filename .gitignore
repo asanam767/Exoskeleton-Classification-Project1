@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Datasets & Models (Important!)
+*.csv
+*.pkl
+*.h5
+*.keras
+
+# IDE / OS specific
+.idea/
+.vscode/
+.DS_Store
